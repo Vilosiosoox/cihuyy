@@ -1,0 +1,4 @@
+(function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/krissisis898-dev/Roblox-/refs/heads/main/Roblox%20Anti%20AFK-Script%20(updatet)", true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vilosiosoox/cihuyy/refs/heads/main/cdidautobox", true))()
+end)()
